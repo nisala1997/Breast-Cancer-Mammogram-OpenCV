@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=header&text=Cancer%20Detect%20Using%20OpenCV&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=header&text=Breast%20Cancer%20Using%20OpenCV&fontSize=60)
 ## Breast-Cancer-Mammogram-Image-enhancement-and-Tumor-Size-calculation
 
 ## Run the mam.py file to access the GUI
